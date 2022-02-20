@@ -2,7 +2,7 @@
 _A simple online chat room client with **C#**, **PHP(Server).**_
 
 
-一个简易版在线聊天室客户端。
+一个简易版在线聊天室客户端Sample。
 
 
 [View code page](https://github.com/scarletkc/FogMoe-Chat)
